@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2021-02-17_17-37-40")(type "Legacy")(uri "C:/Users/adm/Documents/Speeduino-VR conditioner/VR Conditioner/Latest/2021-02-17_17-37-40.lib")(options "")(descr ""))
+  (lib (name "VR BZO V3.1-rescue")(type "KiCad")(uri "${KIPRJMOD}/VR BZO V3.1-rescue.kicad_sym")(options "")(descr ""))
+)
