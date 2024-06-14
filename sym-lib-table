@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "base-kicad-speeduino-4.3d-rescue")(type "Legacy")(uri "${KIPRJMOD}/base kicad speeduino 4.3d-rescue.lib")(options "")(descr ""))
+  (lib (name "BZO-Universal-Double-Six-v1.0-rescue")(type "Legacy")(uri "${KIPRJMOD}/BZO Universal Double Six v1.0-rescue.lib")(options "")(descr ""))
+  (lib (name "C20XE-M2.8-4.3d-rescue")(type "Legacy")(uri "C:/Users/adm/Documents/BLITZUINO/PCB C20XE PnP+ M2.8 v4.3d/C20XE M2.8 4.3d-rescue.lib")(options "")(descr ""))
+  (lib (name "BZO-USB-MODULE-V1-(external-version)-rescue")(type "Legacy")(uri "C:/Users/adm/Documents/BLITZUINO/BZO USB MODULE V1 (external version)/BZO USB MODULE V1 (external version)-rescue.lib")(options "")(descr ""))
+  (lib (name "BZO Universal Double Six v1.0-rescue")(type "KiCad")(uri "${KIPRJMOD}/BZO Universal Double Six v1.0-rescue.kicad_sym")(options "")(descr ""))
+)
