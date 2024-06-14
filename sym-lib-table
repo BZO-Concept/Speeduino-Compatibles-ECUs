@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name module_TTL-serie-eagle-import)(type Legacy)(uri ${KIPRJMOD}/module_TTL-serie-eagle-import.lib)(options "")(descr ""))
+  (lib (name module-TTL-serie-rescue)(type Legacy)(uri "${KIPRJMOD}/module TTL-serie-rescue.lib")(options "")(descr ""))
+  (lib (name "BZO-USB-MODULE-V1-(external-version)-rescue")(type Legacy)(uri "${KIPRJMOD}/BZO USB MODULE V1 (external version)-rescue.lib")(options "")(descr ""))
+  (lib (name "BZO-USB-MODULE-v2.0-USB-C-(external-version)-rescue")(type Legacy)(uri "${KIPRJMOD}/BZO USB MODULE v2.0 USB C (external version)-rescue.lib")(options "")(descr ""))
+)
